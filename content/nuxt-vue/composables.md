@@ -1,0 +1,3 @@
+# Composables
+
+::nuxt-vue-nav
