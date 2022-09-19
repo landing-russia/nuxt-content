@@ -8,8 +8,6 @@ MDC stands for _**M**ark**D**own **C**omponents_.
 
 ## Next steps
 
-- [Install Nuxt Content](/get-started)
-- [Explore the MDC syntax](/guide/writing/mdc)
 
 ```js
 const blogPosts = await queryContent("/blog")
